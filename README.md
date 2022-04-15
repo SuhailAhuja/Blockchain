@@ -10,7 +10,7 @@ Ethereum ERC20 token and basic token distributions
 
     •	INFURA_TOKEN = <Infura Project ID >
     •	CONTRACT_ADDRESS =< Address of the Contract that is deployed >
-    •	OWNER_ADDRESS = <Account Id oof MetaMask >
+    •	OWNER_ADDRESS = <Account Id of MetaMask >
     •	SUPER_SECRET_PRIVATE_KEY = <Private Key obtained from the MetaMask Account>
   
 •	Installing Node.js NPM packages like Web3, dotenv for Ethereum env
