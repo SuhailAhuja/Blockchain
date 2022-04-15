@@ -6,7 +6,7 @@ Ethereum ERC20 token and basic token distributions
 
 •	Creation and Deployment of Smart Contract on Remix IDE
 
-•	Updation of the .env file by modigfying the required fields-
+•	Updation of the .env file by modifying the required fields-
     •	INFURA_TOKEN=<Infura Project ID>
     •	CONTRACT_ADDRESS=<Address of the Contract that is deployed>
     •	OWNER_ADDRESS=<Account Id oof MetaMask>
